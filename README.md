@@ -14,6 +14,8 @@ This repository is my portfolio index. Everything I'm building in the open is li
 | [**Sanjeevani Aushad**](https://github.com/auj012/4.Sanjeeva-Aushadh) | AI medication decision-support trilogy (Divya Drishti → Lakshman Rekha → Sanjeevani) for patient allergy safety, on 250K+ medication records | Product spec & architecture defined |
 | [**Project Pixie**](https://github.com/auj012/1.PixieMyFirstAIAgent) | My first AI agent — built hands-on, guardrails-first, with a golden-dataset evaluation | In progress |
 | [**Employer Hiring Experience Score**](https://github.com/auj012/2.Employer_ScoreCard) | Feasibility investigation into scoring the candidate hiring experience | Feasibility assessment complete |
+| [**Drishti**](https://github.com/auj012/5.Dristi) | See beyond your resume| ideation |
+
 
 Each project repo follows the same discipline: **ideation → product spec → architecture → project management → QA & evaluation.** The goal isn't just a model — it's the product thinking, the data honesty, and the evaluation around it.
 
