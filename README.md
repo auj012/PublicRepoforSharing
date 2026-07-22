@@ -17,7 +17,7 @@ This repository is my portfolio index. Everything I'm building in the open is li
 | [**Drishti**](https://github.com/auj012/5.Dristi) | See beyond your resume| ideation |
 
 
-Each project repo follows the same discipline: **ideation → product spec → architecture → project management → QA & evaluation.** The goal isn't just a model — it's the product thinking, the data honesty, and the evaluation around it.
+Each project repository follows the same structure: 01_ideation → 02_product_spec → 03_architecture → 04_project_mgmt → 05_qa_evals, ensuring every project is documented from concept through evaluation.
 
 ---
 
